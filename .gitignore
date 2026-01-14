@@ -1,0 +1,4 @@
+# Ignore large datasets
+data/combined_stock_data.csv
+data/*.csv
+*.csv
